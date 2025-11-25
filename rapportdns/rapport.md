@@ -4,7 +4,7 @@
 
 **Date :** 25/11/2025
 
-**Sujet :** Résolution des problèmes DHCP/DNS sur Woodytoys.lab
+**Sujet :** Résolution des problèmes DHCP/DNS sur Woodytoys.lab exercice 1
 
 
 
@@ -47,4 +47,5 @@ options {
                 localhost;
                 192.168.0.0/24;
         };
+
 ```
